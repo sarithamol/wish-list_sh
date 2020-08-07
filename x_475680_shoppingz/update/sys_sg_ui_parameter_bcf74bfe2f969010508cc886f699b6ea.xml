@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Shopping Item)">74f74bfe2f969010508cc886f699b6e9</button>
+        <button_parent_table>x_475680_shoppingz_shopping_item</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>store_name</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Store name</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>store_name</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-02 07:07:46</sys_created_on>
+        <sys_id>bcf74bfe2f969010508cc886f699b6ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store name</sys_name>
+        <sys_package display_value="Shopping List_MS" source="x_475680_shoppingz">64160bb22f969010508cc886f699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List_MS">64160bb22f969010508cc886f699b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_bcf74bfe2f969010508cc886f699b6ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-02 07:07:46</sys_updated_on>
+        <table_name>x_475680_shoppingz_shopping_item</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=bcf74bfe2f969010508cc886f699b6ea"/>
+</record_update>
